@@ -1,0 +1,2 @@
+# omina
+Omina Technologies
